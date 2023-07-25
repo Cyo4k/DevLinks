@@ -1,6 +1,5 @@
 <h1 align="center"> DevLinks </h1>
 
-https://cyo4k.github.io/DevLinks/ - link do meu projeto finalizado
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -36,6 +35,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+<h3 aligh="center" >link do meu projeto finalizado </h3>
+<p aligh="center"> https://cyo4k.github.io/DevLinks </p>
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
